@@ -6,4 +6,8 @@ THis file uploaded from the local 2
 
 This file uploaded from local 3
 
+<<<<<<< HEAD
 This file uploaded from local 4
+=======
+THis change is from remote 2
+>>>>>>> f33bba039f69f7990cbb75e64da85dd09f0aafd2
