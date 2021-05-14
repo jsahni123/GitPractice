@@ -2,4 +2,8 @@ This is a Test 2 file
 
 THis file uploaded from local 1
 
+<<<<<<< HEAD
 THis file uploaded from local 2
+=======
+THis file uploaded from Remote 1
+>>>>>>> 463a18ce3485c747671c505591aaddee00b85e4b
