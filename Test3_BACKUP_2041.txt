@@ -1,7 +1,0 @@
-This is test 3
-<<<<<<< HEAD
-
-This a a update from local 1 
-=======
-This is remote 1
->>>>>>> 54b19043379081344c9c0e79bc28b40f02d940b2
